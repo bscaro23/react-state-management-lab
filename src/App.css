@@ -1,9 +1,11 @@
-ul {
+section {
   display: flex;
+  flex-direction: row;
+  gap: 10px;
   flex-wrap: wrap;
+  width: 100vw;
 }
 
-li {
-  list-style: none;
-  margin: 10px;
-}
+
+
+

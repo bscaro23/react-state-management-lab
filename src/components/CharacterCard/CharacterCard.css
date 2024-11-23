@@ -1,0 +1,11 @@
+.character-card{
+    padding: 10px;
+    width: 150px;
+    background-color: grey;
+    border-radius: 2.5%;
+  }
+
+  button{
+    background-color: black;
+    color: white;
+  }
